@@ -1,3 +1,3 @@
 # Life_is_fun
 
-Author - renjith nair
+Author - renjith nair (sample)
